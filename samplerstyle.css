@@ -1,0 +1,14 @@
+h1 {
+    color: orangered;
+    background-color: lightpink;
+}
+
+p {
+    color: green;
+    background-color: darkseagreen;
+}
+
+.highlight {
+    color: red;
+    background-color: yellow;
+}
